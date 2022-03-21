@@ -1,0 +1,21 @@
+body {
+  padding: 70px;
+}
+
+input{
+  margin: 5px;
+}
+
+.divApika{
+  display: flex;
+  flex-direction: column;
+}
+
+.blockquote{
+  align-self: flex-end;
+  padding-left: 3rem;
+}
+
+.mb-0{
+  padding: 10px;
+}
